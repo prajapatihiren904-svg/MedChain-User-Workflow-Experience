@@ -1,0 +1,28 @@
+========================================================
+                       MEDCHAIN                         
+                 PHARMACY SALES REPORT                  
+========================================================
+Pharmacy Name   : Zydus Pharmacy
+Owner Name      : Dr. Ramesh Desai
+Report Date     : 2026-07-18
+--------------------------------------------------------
+                      ORDER METRICS                     
+--------------------------------------------------------
+Total Orders Placed     : 8
+  - Fulfilled Locally   : 4
+  - Fulfilled Transfer  : 1
+  - Cancelled Orders    : 0
+--------------------------------------------------------
+                     REVENUE METRICS                    
+--------------------------------------------------------
+Total Revenue (Subtotal): Rs. 2275.00
+Total GST Collected     : Rs. 273.00
+Gross Sales (incl. GST) : Rs. 2548.00
+--------------------------------------------------------
+                  ITEMIZED SALES SUMMARY                
+--------------------------------------------------------
+Medicine Name                            Total Qty Sold 
+--------------------------------------------------------
+Dolo 650mg                               81             
+Crocin Advance 500mg                     10             
+========================================================

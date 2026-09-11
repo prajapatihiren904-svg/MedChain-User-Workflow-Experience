@@ -1,0 +1,27 @@
+========================================================
+                       MEDCHAIN                         
+                 SYSTEM AUDIT REPORT                    
+========================================================
+Audit Date      : 2026-07-11
+--------------------------------------------------------
+                  SYSTEM TRANSACTION TOTALS             
+--------------------------------------------------------
+Total System Orders     : 1
+Fulfilled Orders        : 1
+Total Subtotal Revenue  : Rs. 127.50
+Total GST Collected     : Rs. 15.30
+Gross System Sales      : Rs. 142.80
+--------------------------------------------------------
+               PENDING PHARMACY APPROVAL QUEUE          
+--------------------------------------------------------
+ID    Pharmacy Name             Owner Name          
+--------------------------------------------------------
+7     MedPlus Prahlad Nagar     Dr. Ankit Raval     
+--------------------------------------------------------
+              LOW STOCK INVENTORY WARNINGS (<=15)       
+--------------------------------------------------------
+Pharmacy                  Medicine     Qty      Batch     
+--------------------------------------------------------
+Zydus Pharmacy            Dolo 650mg   15       ZP-DL-2601
+Intas MediCare Store      Amoxicillin 500mg 10       IM-AM-2601
+========================================================

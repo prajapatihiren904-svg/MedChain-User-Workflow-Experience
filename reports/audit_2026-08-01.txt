@@ -1,0 +1,28 @@
+========================================================
+                       MEDCHAIN                         
+                 SYSTEM AUDIT REPORT                    
+========================================================
+Audit Date      : 2026-08-01
+--------------------------------------------------------
+                  SYSTEM TRANSACTION TOTALS             
+--------------------------------------------------------
+Total System Orders     : 11
+Fulfilled Orders        : 8
+Total Subtotal Revenue  : Rs. 3197.00
+Total GST Collected     : Rs. 383.64
+Gross System Sales      : Rs. 3580.64
+--------------------------------------------------------
+               PENDING PHARMACY APPROVAL QUEUE          
+--------------------------------------------------------
+ID    Pharmacy Name             Owner Name          
+--------------------------------------------------------
+7     MedPlus Prahlad Nagar     Dr. Ankit Raval     
+--------------------------------------------------------
+              LOW STOCK INVENTORY WARNINGS (<=15)       
+--------------------------------------------------------
+Pharmacy                  Medicine     Qty      Batch     
+--------------------------------------------------------
+Intas MediCare Store      Dolo 650mg   13       BAT-091   
+Intas MediCare Store      Amoxicillin 500mg 10       IM-AM-2601
+Intas MediCare Store      Dolo 650mg   2        SP-DL-2601
+========================================================

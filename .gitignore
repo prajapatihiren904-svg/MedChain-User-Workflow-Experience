@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java files
+bin/
+out/
+*.class
+
+# Database credentials
+db.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log

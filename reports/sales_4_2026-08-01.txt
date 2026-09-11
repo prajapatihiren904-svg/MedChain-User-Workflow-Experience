@@ -1,0 +1,27 @@
+========================================================
+                       MEDCHAIN                         
+                 PHARMACY SALES REPORT                  
+========================================================
+Pharmacy Name   : Cadila Healthcare Pharmacy
+Owner Name      : Dr. Harish Pandya
+Report Date     : 2026-08-01
+--------------------------------------------------------
+                      ORDER METRICS                     
+--------------------------------------------------------
+Total Orders Placed     : 1
+  - Fulfilled Locally   : 0
+  - Fulfilled Transfer  : 1
+  - Cancelled Orders    : 0
+--------------------------------------------------------
+                     REVENUE METRICS                    
+--------------------------------------------------------
+Total Revenue (Subtotal): Rs. 735.00
+Total GST Collected     : Rs. 88.20
+Gross Sales (incl. GST) : Rs. 823.20
+--------------------------------------------------------
+                  ITEMIZED SALES SUMMARY                
+--------------------------------------------------------
+Medicine Name                            Total Qty Sold 
+--------------------------------------------------------
+Crocin Advance 500mg                     30             
+========================================================
